@@ -1,0 +1,1 @@
+Algumas TAGS do html4 deixaram de existir no html5, elas se tornamram obsoletas, porém ainda funcionam, mas não é recomendado a utilização. Para saber quais são, basta pesquisar por "tags absoletas HTML5"
